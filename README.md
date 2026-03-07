@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%2C%20I%27m%20Kamsi%20%F0%9F%8C%B8&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Frontend%20Developer%20%26%20UI%2FUX%20Designer&descSize=17&descAlignY=68&descColor=fff0f0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C0213A&height=200&section=header&text=Hi%20I%27m%20Kamsi&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Frontend%20Developer%20and%20UI%2FUX%20Designer&descSize=17&descAlignY=68&descColor=FFE4EC&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -34,7 +34,7 @@ const kamsi = {
 
 <div align="center">
 
-### ✨ Skills & Tools
+### ✨ Skills and Tools
 
 <br/>
 
@@ -94,6 +94,6 @@ const kamsi = {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=footer&text=%F0%9F%8C%B8%20Kamsi&fontSize=26&fontColor=ffffff&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB3C6&height=140&section=footer&text=Kamsi&fontSize=26&fontColor=C0213A&fontAlignY=68" width="100%"/>
 
 </div>
